@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rockysaputra
 - 🌱 I’m currently learning VueJs and NuxtJs
 - 📫 How to reach me: Facebook "Rocky Saputra"
-- ⚡ Fun fact: Saya laki-laki masih muda ya 22 thn
+- ⚡ Fun fact: Waifu saya -> Nishikino Maki
 
 <!---
 rockysaputra/rockysaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
