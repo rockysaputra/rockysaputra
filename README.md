@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rockysaputra
-- 🌱 I’m currently learning VueJs and NuxtJs
+- 🌱 I’m currently learning VueJs and ExpressJs
 - 📫 How to reach me: Facebook "Rocky Saputra"
 - ⚡ Fun fact: Waifu saya -> Nishikino Maki
 
