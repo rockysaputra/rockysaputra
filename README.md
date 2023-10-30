@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rockysaputra
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: Facebook "Rocky Saputra"
 - ⚡ Fun fact: Waifu saya -> Nishikino Maki
 
